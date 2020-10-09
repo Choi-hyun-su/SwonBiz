@@ -38,7 +38,7 @@ const customers=[
     'gender':'남자'
   },
   {
-    'id':1,
+    'id':3,
     'name':'홍길동',
     'job':'산적',
     'birth':'930505',
